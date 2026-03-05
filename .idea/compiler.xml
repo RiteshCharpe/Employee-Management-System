@@ -2,7 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+<<<<<<< HEAD
+=======
       <profile default="true" name="Default" enabled="true" />
+>>>>>>> ed2da676be83f171c97704b2eb7de8a168fdba37
       <profile name="Annotation profile for ems-backend" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />

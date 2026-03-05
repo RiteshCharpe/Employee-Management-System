@@ -4,7 +4,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/Employee Management System-Backend/ems-backend/pom.xml" />
+=======
         <option value="$PROJECT_DIR$/ems-backend/pom.xml" />
+>>>>>>> ed2da676be83f171c97704b2eb7de8a168fdba37
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
